@@ -7,3 +7,5 @@
 [https://www.dangermouse.net/esoteric/chef.html](url)<br>
 - taq2777さんの備忘録-はてなブログ<br>
 [https://taq.hatenadiary.jp/entry/2024/03/09/103000](url)<br>
+- nilaymajさんのChef実行環境<br>
+[https://esolangpark.vercel.app/ide/chef](url)<br>
